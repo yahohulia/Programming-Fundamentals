@@ -1,0 +1,15 @@
+*.dSYM
+*.out
+*.exe
+*.class
+*.jar
+*.dll
+*.dylib
+*.so
+*.dylib
+main
+.vscode
+*.sln
+*.vcxproj.user
+*.vcxproj.filters
+*.vcxproj
